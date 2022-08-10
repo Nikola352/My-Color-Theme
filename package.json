@@ -3,6 +3,12 @@
     "displayName": "MyColorTheme",
     "description": "Color theme",
     "version": "0.0.1",
+    "author": {
+        "name": "Nikola Jolovic",
+        "email": "nikolajolovic02@gmail.com"
+    },
+    "publisher": "nikola-jolovic",
+    "repository": {"url": "https://github.com/Nikola352/My-Color-Theme"},
     "engines": {
         "vscode": "^1.52.0"
     },
